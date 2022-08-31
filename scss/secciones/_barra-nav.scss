@@ -1,0 +1,21 @@
+nav {
+    color: black;
+    margin: 0 auto;
+    display: flex;
+    width: 50vw;
+    justify-content: center;
+
+    ul {
+        color: aqua;
+        display: flex;
+        width: 30vw;
+        justify-content: space-between;
+        margin: 0 auto;
+    }
+
+    li {
+        color: violet;
+        list-style: none;
+
+    }
+}
